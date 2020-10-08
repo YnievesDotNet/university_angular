@@ -7,7 +7,7 @@ import { FormControl } from '@angular/forms';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'proyecto01';
+  title = 'university';
   name = new FormControl('');
 
   EnviarDatos(){
